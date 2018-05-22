@@ -1,0 +1,24 @@
+
+welcome_message: WELCOME TO WEBSERVICES APPLICATION
+
+new_line: \n
+
+http_url: http://
+get_url: /truck/1/details
+post_url: /registration
+delete_url: /clear?driverId=4
+put_url: /edit
+
+user_key: token
+user_value: 5
+
+handlers: java.util.logging.ConsoleHandler
+java.util.logging.ConsoleHandler.level : INFO
+
+host_message: Please enter host 
+port_message: Please enter port number
+method_message: Please Enter Method Name 
+exit_message: exit
+last_message: Thanks
+
+
